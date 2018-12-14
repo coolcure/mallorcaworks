@@ -1,0 +1,8 @@
+{
+  "name": "mallorcaworksapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "80162f96"
+}
